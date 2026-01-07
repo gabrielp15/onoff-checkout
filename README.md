@@ -38,7 +38,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 1. **Clone o repositório**
    ```bash
-   git clone [https://github.com/seu-usuario/automacao-sults.git](https://github.com/seu-usuario/automacao-sults.git)
+   git clone [https://github.com/gabrielp15/onoff-checkout.git](https://github.com/gabrielp15/onoff-checkout.git)
 
 2. **Instale as dependências**
    ```bash
